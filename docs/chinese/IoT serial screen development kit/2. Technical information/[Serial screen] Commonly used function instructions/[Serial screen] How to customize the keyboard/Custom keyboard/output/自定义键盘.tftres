@@ -1,0 +1,11 @@
+<Resource>
+    <pages>
+        <page name="Screen0" id="0" />
+        <page name="自定义键盘1" id="1" />
+    </pages>
+    <images>
+        <image id="0" url="u:\技术文档\技术笔记汇总\功能应用工程\自定义键盘\Images\文本_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="1" url="u:\技术文档\技术笔记汇总\功能应用工程\自定义键盘\Images\01_09.jpg" effect_width="800" effect_height="480" />
+    </images>
+    <waves />
+</Resource>

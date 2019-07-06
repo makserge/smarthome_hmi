@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<dpInst>
+<legacyMode/>
+<search>
+  <subDirectory>x86</subDirectory>
+  <subDirectory>amd64</subDirectory>
+</search>
+</dpInst>

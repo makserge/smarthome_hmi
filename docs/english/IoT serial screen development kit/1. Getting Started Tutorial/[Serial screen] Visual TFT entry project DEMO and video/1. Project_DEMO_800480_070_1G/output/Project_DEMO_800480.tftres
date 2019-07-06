@@ -1,0 +1,77 @@
+<Resource>
+    <pages>
+        <page name="按钮" id="3" />
+        <page name="文本" id="4" />
+        <page name="进度条" id="5" />
+        <page name="仪表" id="6" />
+        <page name="滑块" id="7" />
+        <page name="时间" id="8" />
+        <page name="动画" id="9" />
+        <page name="图标" id="10" />
+        <page name="曲线" id="11" />
+        <page name="二维码" id="14" />
+        <page name="视频" id="17" />
+        <page name="音频" id="18" />
+        <page name="多语言" id="22" />
+        <page name="按钮说明" id="25" />
+        <page name="文本说明" id="26" />
+        <page name="进度条说明" id="27" />
+        <page name="仪表说明" id="28" />
+        <page name="滑块说明" id="29" />
+        <page name="二维码说明" id="30" />
+        <page name="数据记录说明" id="31" />
+        <page name="视频说明" id="32" />
+        <page name="扫描WIFI说明" id="33" />
+        <page name="多语言说明" id="34" />
+        <page name="测试" id="35" />
+        <page name="白" id="36" />
+        <page name="红" id="37" />
+        <page name="蓝" id="38" />
+        <page name="灰阶" id="39" />
+        <page name="彩阶" id="40" />
+        <page name="字库查看" id="41" />
+        <page name="测试图片" id="42" />
+    </pages>
+    <images>
+        <image id="0" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\按钮\按钮_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="1" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\按钮\按钮_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="2" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\文本\文本_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="3" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\额外\文本_数码管艺术字.icon" effect_width="24" effect_height="36" />
+        <image id="4" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\进度条\进度条背景.jpg" effect_width="800" effect_height="480" />
+        <image id="5" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\进度条\进度条.png" effect_width="418" effect_height="22" />
+        <image id="6" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\仪表\仪表_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="7" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\仪表\仪表_背景按后.jpg" effect_width="800" effect_height="480" />
+        <image id="8" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\仪表\仪表_指针.png" effect_width="90" effect_height="72" />
+        <image id="9" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\滑块\滑块_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="10" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\滑块\滑块进度条.png" effect_width="616" effect_height="17" />
+        <image id="11" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\滑块\滑块_游标素材.png" effect_width="51" effect_height="52" />
+        <image id="12" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\时间\时间_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="13" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\时间\时间_分针.png" effect_width="5" effect_height="105" />
+        <image id="14" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\时间\时间_时针.png" effect_width="4" effect_height="106" />
+        <image id="15" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\时间\时间_秒针.png" effect_width="9" effect_height="112" />
+        <image id="16" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\时间\时间_表扣素材.png" effect_width="23" effect_height="23" />
+        <image id="17" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\时间\时间_背景按下.jpg" effect_width="800" effect_height="480" />
+        <image id="18" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\动画\动画_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="19" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\额外\动画_gif素材.gif" effect_width="555" effect_height="268" />
+        <image id="20" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\图标\图标_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="21" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\额外\图标.ICON" effect_width="188" effect_height="184" />
+        <image id="22" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\图标\图标_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="23" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\曲线\曲线_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="24" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\二维码\二维码_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="25" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\额外\二维码_二维码图标.ICON" effect_width="47" effect_height="49" />
+        <image id="26" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\视频\视频_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="27" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\视频\视频_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="28" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\音频\音频_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="29" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\音频\音频_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="30" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\多语言\多语言_背景.jpg" effect_width="800" effect_height="480" />
+        <image id="31" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\多语言\多语言_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="32" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\帮助\帮助单页.jpg" effect_width="800" effect_height="480" />
+        <image id="33" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\测试\测试背景.jpg" effect_width="800" effect_height="480" />
+        <image id="34" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\测试\测试背景_选中.jpg" effect_width="800" effect_height="480" />
+        <image id="35" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\测试\色阶.jpg" effect_width="800" effect_height="480" />
+        <image id="36" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\测试\彩色色阶.jpg" effect_width="800" effect_height="480" />
+        <image id="37" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\测试\测试背景一.jpg" effect_width="800" effect_height="480" />
+        <image id="38" url="d:\work\hmi\iot serial screen development kit\1. getting started tutorial\[serial screen] visual tft entry project demo and video\1. project_demo_800480_070_1g\Images\测试\测试图片.png" effect_width="800" effect_height="480" />
+    </images>
+    <waves />
+</Resource>

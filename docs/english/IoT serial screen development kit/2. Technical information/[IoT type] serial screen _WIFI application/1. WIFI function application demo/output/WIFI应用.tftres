@@ -1,0 +1,28 @@
+<Resource>
+    <pages>
+        <page name="首页" id="0" />
+        <page name="WIFI设置" id="1" />
+        <page name="扫描WIFI" id="2" />
+        <page name="测试HTTP" id="3" />
+        <page name="远程升级" id="4" />
+        <page name="DHCP设置" id="5" />
+    </pages>
+    <images>
+        <image id="0" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\800x600_2.jpg" effect_width="800" effect_height="600" />
+        <image id="1" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\800x600_2按下.jpg" effect_width="800" effect_height="600" />
+        <image id="2" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\wifi配置.jpg" effect_width="800" effect_height="600" />
+        <image id="3" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\wifi配置_按下.jpg" effect_width="800" effect_height="600" />
+        <image id="4" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\扫描wifi.jpg" effect_width="800" effect_height="600" />
+        <image id="5" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\扫描wifi_按下.jpg" effect_width="800" effect_height="600" />
+        <image id="6" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\测试HTTP.jpg" effect_width="800" effect_height="600" />
+        <image id="7" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\远程更新.jpg" effect_width="800" effect_height="600" />
+        <image id="8" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\远程更新_按下.jpg" effect_width="800" effect_height="600" />
+        <image id="9" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\791bb9b546ced80f9c8a6748d8d92c08.jpg" effect_width="430" effect_height="350" />
+        <image id="10" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\网络配置.jpg" effect_width="800" effect_height="600" />
+        <image id="11" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\文本框.png" effect_width="180" effect_height="49" />
+        <image id="12" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\DHCP下拉菜单_菜单弹起效果图.png" effect_width="142" effect_height="80" />
+        <image id="13" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\DHCP下拉菜单_菜单按下.png" effect_width="142" effect_height="80" />
+        <image id="14" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\1. wifi function application demo\Images\网络配置_按下.jpg" effect_width="800" effect_height="600" />
+    </images>
+    <waves />
+</Resource>

@@ -1,0 +1,25 @@
+<Resource>
+    <pages>
+        <page name="首页" id="0" />
+        <page name="WIFI设置" id="1" />
+        <page name="扫描WIFI" id="2" />
+        <page name="APP演示" id="3" />
+    </pages>
+    <images>
+        <image id="0" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\800x600_1.jpg" effect_width="800" effect_height="600" />
+        <image id="1" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\800x600_1按下.jpg" effect_width="800" effect_height="600" />
+        <image id="2" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\wifi配置.jpg" effect_width="800" effect_height="600" />
+        <image id="3" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\wifi配置_按下.jpg" effect_width="800" effect_height="600" />
+        <image id="4" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\扫描wifi.jpg" effect_width="800" effect_height="600" />
+        <image id="5" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\扫描wifi_按下.jpg" effect_width="800" effect_height="600" />
+        <image id="6" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\APP演示.jpg" effect_width="800" effect_height="600" />
+        <image id="7" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\APP演示_按下.jpg" effect_width="800" effect_height="600" />
+        <image id="8" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\红.png" effect_width="482" effect_height="15" />
+        <image id="9" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\蓝.png" effect_width="482" effect_height="18" />
+        <image id="10" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\app演示_游标素材.png" effect_width="30" effect_height="30" />
+        <image id="11" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\黄.png" effect_width="482" effect_height="15" />
+        <image id="12" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\app演示_菜单弹起.png" effect_width="151" effect_height="122" />
+        <image id="13" url="d:\work\hmi\iot serial screen development kit\2. technical information\[iot type] serial screen _wifi application\2. communication with wit cloud app demo\Images\app演示_菜单选中.png" effect_width="151" effect_height="122" />
+    </images>
+    <waves />
+</Resource>
